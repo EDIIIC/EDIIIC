@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EDIIIC
 - 👀 I’m interested in 3D Animation and Game Design
 - 🌱 I’m currently learning how to script self-rigging tools for Python in Maya
-- 💞️ I’m looking to collaborate on 3D projects as a 3D Rigger/Modeler
+- 💞️ I’m looking to collaborate on 3D projects as a 3D Rigger/Animator
 - 📫 Reach me at craguned@gmail.com
 
 <!---
